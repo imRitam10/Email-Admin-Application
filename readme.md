@@ -10,3 +10,9 @@
 
 	- Generate random string for password
 
+
+
+
+## Output
+
+	![output] (./src/output.png)
