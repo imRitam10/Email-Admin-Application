@@ -1,8 +1,8 @@
-#Email Application 
+# Email Application 
 
-##Scenatio: You are an IT Support Administrator and are charged with the task of creating email accounts for new hires.
+## Scenatio: You are an IT Support Administrator and are charged with the task of creating email accounts for new hires.
 
-###Your Application should do the following :
+#### Your Application should do the following :
 
 	- generate an email with the following syntax: firstname-lastname.department@company.com
 
