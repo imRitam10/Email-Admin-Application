@@ -11,8 +11,8 @@
 	- Generate random string for password
 
 
-
+##
 
 ## Output
 
-	![output] (./src/output.png)
+	![output] (/src/output.png)
