@@ -15,4 +15,4 @@
 
 ## Output
 
-	![output] (/src/output.png)
+	![output] (/src/Output.png)
