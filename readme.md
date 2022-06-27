@@ -2,11 +2,11 @@
 
 # Email Application
 
-##
+
 
 ## Scenatio: You are an IT Support Administrator and are charged with the task of creating email accounts for new hires.
 
-##
+
 
 #### Your Application should do the following :
 
@@ -20,4 +20,4 @@
 
 ## Output
 
-    ![output](/Output.png)
+![Outout](/Output.png)
